@@ -1,0 +1,23 @@
+.estilo_caja_logo {
+    background-color:antiquewhite;
+    width:50%;
+    height: 150px;
+    float: left;
+    text-align: center;
+}
+h1{
+font-size: 40px;
+color: brown;
+}
+h2 {
+font-size: 25px;
+color: aqua;
+}
+
+.estilo_caja_titulo {
+text-align: left;
+}
+
+body {
+ font-family: Arial, Helvetica, sans-serif;
+}
